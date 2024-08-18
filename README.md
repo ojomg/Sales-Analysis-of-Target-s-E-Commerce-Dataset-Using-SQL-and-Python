@@ -1,0 +1,2 @@
+# Sales-Analysis-of-Target-s-E-Commerce-Dataset-Using-SQL-and-Python
+I conducted a comprehensive sales analysis of Target's e-commerce dataset, leveraging the power of SQL for data querying and Python for advanced analytics and visualization. Target, a globally recognized retail leader in the United States, is renowned for delivering unparalleled value, innovative products, and a unique shopping experience.
