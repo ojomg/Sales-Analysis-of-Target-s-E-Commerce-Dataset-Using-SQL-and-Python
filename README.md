@@ -14,6 +14,8 @@ The dataset, comprising eight meticulously structured CSV files, offers a rich t
 - **orders.csv:** Overall order information, encompassing order status and timestamps.
 - **products.csv:** Detailed product information, essential for understanding product diversity and performance.
 
+**For DataSet Visit :** https://www.kaggle.com/datasets/devarajv88/target-dataset?resource=download
+
 **Technical Execution:**
 In this project, I utilized SQL for efficient data extraction and aggregation, enabling precise analysis of key metrics such as order processing times, payment success rates, and shipping performance. Python was employed for data cleaning, advanced statistical analysis, and visualization, providing actionable insights into pricing strategies, customer behavior, and product performance.
 
